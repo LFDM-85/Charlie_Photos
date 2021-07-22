@@ -1,0 +1,19 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+.nav {
+  text-transform: uppercase;
+  font-family: 'Roboto', sans-serif;
+  font-size: xx-large;
+}
+.images{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+img {
+  width: 30%;
+   max-height: 300px; 
+  margin: 1.5%;
+}
